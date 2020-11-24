@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Naloga1", "Vaje4_Predpriprava\Naloga1.csproj", "{52EB2157-84B1-45F4-8D29-C8603C37D648}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Naloga2", "Naloga2\Naloga2.csproj", "{E32A5EDB-22E0-4C09-88F4-80EB6DAB99FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Naloga3", "Naloga3\Naloga3.csproj", "{1F25E759-42CF-4343-9CE4-B1807C449A44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52EB2157-84B1-45F4-8D29-C8603C37D648}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52EB2157-84B1-45F4-8D29-C8603C37D648}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52EB2157-84B1-45F4-8D29-C8603C37D648}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52EB2157-84B1-45F4-8D29-C8603C37D648}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E32A5EDB-22E0-4C09-88F4-80EB6DAB99FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E32A5EDB-22E0-4C09-88F4-80EB6DAB99FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E32A5EDB-22E0-4C09-88F4-80EB6DAB99FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E32A5EDB-22E0-4C09-88F4-80EB6DAB99FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F25E759-42CF-4343-9CE4-B1807C449A44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F25E759-42CF-4343-9CE4-B1807C449A44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F25E759-42CF-4343-9CE4-B1807C449A44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F25E759-42CF-4343-9CE4-B1807C449A44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6B2B35D-2465-4545-9E05-1998EE06EDEE}
+	EndGlobalSection
+EndGlobal
